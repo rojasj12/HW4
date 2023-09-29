@@ -1,6 +1,6 @@
 HW4
 Joel Rojas
-Other Team Members:
+Other Team Members: Mishal Nawar and Vanessa Crowe
 
 Objective:Guess wethere people plan to vaccinate their kids using k-nearest neighbors (k-nn) 
 Steps
